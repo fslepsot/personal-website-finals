@@ -1,6 +1,3 @@
-console.log("JavaScript is working!");
-alert("JS file is loaded!");
-
 (function ($) {
     "use strict";
 
